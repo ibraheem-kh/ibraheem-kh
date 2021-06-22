@@ -1,5 +1,5 @@
 - 👋 Hi, I’m ibraheem
--  App Developer using Flutter
+- 👩‍💻 App Developer using Flutter
 - 🎮 Game Developer using Unity
 - ✉ E-mail : Alkhusheiny12@gmail.com
 
