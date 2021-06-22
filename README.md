@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @ibraheem-kh
-- 👀 I’m interested in Flutter
-- 📫 E-mail : Alkhusheiny12@gmail.com
+- 👋 Hi, I’m ibraheem
+-  App Developer using Flutter
+- 🎮 Game Developer using Unity
+- ✉ E-mail : Alkhusheiny12@gmail.com
 
 <!---
 ibraheem-kh/ibraheem-kh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
